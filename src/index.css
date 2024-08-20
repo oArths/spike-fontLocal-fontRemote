@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@font-face {
+  font-family: "archive";
+  src: url("./assets/font/archiveFont/Archivo-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap
+}
+
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
